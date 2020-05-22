@@ -1,2 +1,2 @@
 # TokTik
-A quick remake of Tik Tok
+Used RxSwift and MVVM to remake a lite version of Tik Tok
